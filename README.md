@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=Cyber+Security+Organization;DevOps+%7C+DevSecOps+Engineering;Infrastructure+%7C+Networking+Solutions;Secure+.+Automate+.+Scale" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=Cyber+Security;DevOps+%7C+DevSecOps;Infrastructure+%7C+Networking;Secure+.+Automate+.+Scale" />
 
 # ⚡ Cygnus Security
 
